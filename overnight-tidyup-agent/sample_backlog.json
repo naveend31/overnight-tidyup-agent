@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Update PRD for Q3 feature launch",
+    "description": "Need to finalize requirements for the notification system revamp",
+    "status": "in-progress",
+    "created_at": "2026-07-01",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "id": "2",
+    "title": "Review design mocks from UX team",
+    "description": "3 design options for the new dashboard layout awaiting PM feedback",
+    "status": "open",
+    "created_at": "2026-07-08",
+    "last_updated": "2026-07-08"
+  },
+  {
+    "id": "3",
+    "title": "Schedule stakeholder sync for API deprecation",
+    "description": "Need to align eng, support, and partner teams on deprecation timeline",
+    "status": "open",
+    "created_at": "2026-06-25",
+    "last_updated": "2026-06-25"
+  },
+  {
+    "id": "4",
+    "title": "Write launch email for internal preview",
+    "description": "Draft announcement for the beta release to internal dogfooders",
+    "status": "open",
+    "created_at": "2026-07-10",
+    "last_updated": "2026-07-12"
+  },
+  {
+    "id": "5",
+    "title": "Close out sprint retro action items",
+    "description": "3 action items from last retro still open - assign owners",
+    "status": "open",
+    "created_at": "2026-07-03",
+    "last_updated": "2026-07-03"
+  },
+  {
+    "id": "6",
+    "title": "Competitive analysis - Feature X",
+    "description": "Compare our approach vs competitor implementations",
+    "status": "done",
+    "created_at": "2026-06-20",
+    "last_updated": "2026-07-11"
+  }
+]
